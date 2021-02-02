@@ -1,0 +1,74 @@
+/* login page css  start*/
+.class-form button{
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 20px;
+  }
+  .class-form {
+      padding: 31px;
+      background: rgb(255 55 31 / 82%);
+      margin-top: 20px;
+      border-radius: 5px;
+      box-shadow: 10px 10px 15px 10px rgba(0, 0, 0, 0.5);
+  }
+  .class-form p{
+      margin: 0px;
+      font-size: 20px;
+      padding-bottom: 8px;
+      padding-top: 8px;
+      color: black;
+      font-weight: 600;
+   }
+  .class-form input{ 
+      width: 100%;
+      padding: 10px;
+      background:white;
+      border: none;
+      border-radius: 8px;
+      font-size: 18px;
+      margin-top: 9px;
+  }
+  /* login page css  end*/
+  
+/* selectdoctor page css  start*/
+.doctorSelect button{
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 20px;
+  }
+  .doctorSelect {
+      padding: 31px;
+      background: rgb(255 55 31 / 82%);
+      margin-top: 20px;
+      border-radius: 5px;
+      box-shadow: 10px 10px 15px 10px rgba(0, 0, 0, 0.5);
+  }
+  .doctorSelect p{
+      margin: 0px;
+      font-size: 20px;
+      padding-bottom: 8px;
+      padding-top: 8px;
+      color: black;
+      font-weight: 600;
+   }
+  .doctorSelect input{ 
+      width: 100%;
+      background:white;
+      border: none;
+   
+  }
+  /* selectdoctor page css  end*/
+  
+.rx_logo {
+    width: 54px;
+    height: 38px;
+    background: black;
+    border-radius: 4px;
+    margin: 12px -3px;
+    line-height: 31px;
+}
+.rx_logo label{
+    color: white;
+    font-size: 36px;
+    font-weight: 800;
+}
